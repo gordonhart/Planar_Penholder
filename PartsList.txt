@@ -1,0 +1,24 @@
+PLANAR COMPONENTS:
+
+2 x slider_holder
+1 x baseplate
+1 x top_springstop
+1 x top_big_springstop
+1 x bottom_stop
+5 x pen_bodyholder
+1 x spring_slider
+1 x spring_slider_pen
+1 x spring_slider_spring
+8 x brace
+2 x holder_right
+2 x holder_left
+
+- - -
+
+OFF-THE-SHELF COMPONENTS:
+
+2 x 45mm M4 screw
+2 x M4 nut
+2 x 12mm M3 screw
+2 x M3 nut
+1 x spring
